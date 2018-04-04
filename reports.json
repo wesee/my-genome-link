@@ -1,0 +1,69 @@
+{
+  "vitamin-a": {
+    "name": "Vitamin A",
+    "scores": {
+      "0": "Lower serum level",
+      "1": "Slightly lower serum level",
+      "2": "Intermediate",
+      "3": "Slightly higher serum level",
+      "4": "Higher serum level"
+    },
+    "description": "Retinol is known as vitamin A along with retinal and retinoic acid. Vitamin A which is a fat soluble vitamin is taken in as retinyl fatty acid ester. Retinol can protect the health of eyes and skin hence if this becomes deficient, not only can night blindness occur but skin can become dry, reducing the resistance of membranes increasing the risk of infection. Conversely, if too much is taken, the possibility of it bringing about headache or nausea and abnormal foetus formation are known."
+  },
+  "vitamin-d": {
+    "name": "Vitamin D",
+    "scores": {
+      "0": "Lower serum level",
+      "1": "Slightly lower serum level",
+      "2": "Intermediate",
+      "3": "Slightly higher serum level",
+      "4": "Higher serum level"
+    },
+    "description": "Vitamin D promotes the absorption and reabsorption of calcium by the intestines and the kidneys and strengthens bones. Fish is a major source of vitamin D and it can also be obtained from eggs or mushrooms. Furthermore, when ultraviolet rays hit the skin, the provitamin D3 present in the skin is synthesized into vitamin D. When there is deficiency of vitamin D, calcium cannot be used well hence it is important for growing children and postmenopausal women to take vitamin D as well as calcium in order to keep their bones strong. The work of vitamin D may be impacted by genes. This is because the mechanism with which signals are transmitted by vitamin D depends on the gene type."
+  },
+  "vitamin-e": {
+    "name": "Vitamin E",
+    "scores": {
+      "0": "Lower serum level",
+      "1": "Slightly lower serum level",
+      "2": "Intermediate",
+      "3": "Slightly higher serum level",
+      "4": "Higher serum level"
+    },
+    "description": "Vitamin E (tocopherol) is one of the fat soluble vitamins and among them, the one referred to as D-α-tocopherol displays strong anti-acidity action in humans. It prevents fat from turning acidic in a metabolizing reaction preventing the ageing of cells. Therefore it is known to be a vitamin useful in health and beauty (skin care)."
+  },
+  "vitamin-b12": {
+    "name": "Vitamin B12",
+    "scores": {
+      "0": "Lower serum level",
+      "1": "Slightly lower serum level",
+      "2": "Intermediate",
+      "3": "Slightly higher serum level",
+      "4": "Higher serum level"
+    },
+    "description": "The vitamin B group contains around eight varieties including vitamin B1, B2, pantothenic acid and folic acid, etc. and they work interactively in the body. Vitamin B12 which is one of those contains the mineral cobalt hence it is also referred to by its other name cobalamin and its characterized by its bright red colour. Vitamin B12, together with folic acid, is involved in the synthesis of red blood cell nucleic acids and proteins. If deficient, red blood cells stop being formed and regenerated leading to an increased risk of pernicious anaemia (megaloblastic anaemia). However it is said that deficiency is unlikely unless one has an extremely unbalanced diet. It&#39;s thought that the concentration of vitamin B12 fluctuates based on genetic factors."
+  },
+  "folate": {
+    "name": "Folate",
+    "scores": {
+      "0": "Lower serum level",
+      "1": "Slightly lower serum level",
+      "2": "Intermediate",
+      "3": "Slightly higher serum level",
+      "4": "Higher serum level"
+    },
+    "description": "Folate is also called vitamin M, vitamin B9 or pteroylglutamic acid and it is categorized as a soluble vitamin. It is an essential nutritional element for the human body and it is said that pregnant women in particular should take more than the usual amount of folates."
+  },
+  "response-to-vitamin-e-supplementation": {
+    "name": "Response to vitamin E supplementation",
+    "scores": {
+      "0": "Weak response",
+      "1": "Slightly weak response",
+      "2": "Intermediate",
+      "3": "Slightly stronger response",
+      "4": "Strong response"
+    },
+    "description": "Vitamin E (tocopherol) is one of the fat soluble vitamins and among them, the one referred to as D-α-tocopherol displays strong anti-acidity action in humans. It prevents fat from turning acidic in a metabolizing reaction preventing the ageing of cells. Therefore it is known to be a vitamin useful in health and beauty (skin care). The responsiveness of this to vitamin E supplements is being investigated."
+  }
+
+}
